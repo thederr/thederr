@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... front end development with react
 - 🌱 I’m currently learning ... react with firebase.
 - 💞️ I’m looking to collaborate on ... anything that sounds cool and worth the journey.
-- 📫 How to reach me ... yell really loud at the top of the mine portal.
+- 📫 How to reach me ... find me running around fairmont at 4:30am.
 
 <!---
 thederr/thederr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
