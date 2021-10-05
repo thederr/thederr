@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thederr
 - 👀 I’m interested in ... front end development with React and anything associated with AWS.
-- 🌱 I’m currently learning ... how to utilize Java with a Postgres database
+- 🌱 I’m currently learning ... how to utilize Flask with React
 - 💞️ I’m looking to collaborate on ... anything that sounds cool and worth the journey.
 - 📫 How to reach me ... find me running around fairmont at 4:30am.
 
